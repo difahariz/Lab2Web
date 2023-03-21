@@ -25,7 +25,7 @@ Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP t
 
 <p>Kemudian untuk mengakses direktori tersebut pada web server dengan mengakses URL: http://localhost/Lab2Web-main/
 
-![Lab2Web](img/Lab2Web-main.png)
+![Lab2Web](img/lab2_php_dasar.png)
 
 ### PHP Dasar
 <p>Buat file baru dengan nama (php_dasar.php) pada directory tersebut. Kemudian buat kode seperti berikut.
